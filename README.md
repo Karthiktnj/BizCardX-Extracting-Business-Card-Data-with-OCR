@@ -1,3 +1,4 @@
+#LinkedIn : https://www.linkedin.com/posts/karthik-r-39862a1a0_bizcardx-extracting-business-card-data-with-activity-7090058579293933569-JS9e?utm_source=share&utm_medium=member_desktop
 
 # BizCardX: Extracting Business Card Data with OCR
 
